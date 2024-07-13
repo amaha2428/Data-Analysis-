@@ -8,25 +8,41 @@ Developed an interactive financial analysis dashboard using Power BI to visualiz
 
 **Profit by Month:**
 - Created a bar chart visualizing monthly profits, identifying October as the most profitable month with a profit of 3.4M.
-- Demonstrated proficiency in trend analysis by highlighting significant fluctuations in monthly profits.
+- There are significant fluctuations in monthly profits, with a noticeable drop after October.
 
 **Profit by Country:**
-- Analyzed profit distribution by country, showcasing France as the leading country with a profit of 3.8M.
-- Utilized bar charts to provide clear and comparative insights into the profitability of different countries.
+- Analyzed profit distribution by country, showcasing France as the leading country with a profit of 3.8M, followed closely by Germany with 3.7M.
+- The United States, despite having the highest sales, has a lower profit compared to France and Germany.
 
 **Sales by Country:**
-- Designed a pie chart to represent sales distribution across countries, with the United States achieving the highest sales at 25.03M.
-- Employed visual storytelling to convey the sales contributions of each country effectively.
+- Designed a pie chart to represent sales distribution across countries, with the United States achieving the highest sales at 25.03M, contributing 21.08% to the total sales.
+- Sales are relatively evenly distributed among the top countries.
 
 **Discounts by Country:**
 - Visualized discounts offered by country, with the United States providing the highest discounts at 2.2M.
-- Enabled stakeholders to quickly understand discount strategies and their impact on sales.
+- Discounts seem to be a significant factor in the United States' sales strategy
 
 **Data Filtering:**
 - Implemented interactive filters for selecting data by year (2013 and 2014), allowing users to dynamically adjust the displayed data.
-- Enhanced user experience by providing a customizable and responsive dashboard interface.
 
+## Recommendations:
 
+**Optimize Sales Strategies:**
+
+- Focus on maintaining and enhancing sales strategies in the United States, Canada, and France, which have high sales figures.
+- Analyze the specific factors contributing to the high profitability in October and December to replicate these strategies in other months.
+  
+**Adjust Discount Policies:**
+
+- Review the discount policies in the United States and Canada to ensure they are contributing effectively to sales without eroding profits.
+- Consider targeted discounts in countries with lower profits to boost sales and market share.
+
+**Expand Market Presence:**
+
+- Explore opportunities to increase market presence in countries with lower profits, such as Mexico and the United States, by analyzing market demands and adjusting marketing strategies accordingly.
+  
+
+---
 # Analysis on Patients Turn-up for Medical Appointment
 
 ## Project Overview:
@@ -41,20 +57,34 @@ Created an in-depth analytical dashboard using Power BI to examine factors influ
 
 **Scholarship by SMS Received and No-show:**
 - Developed a bar chart to examine the correlation between receiving SMS reminders and no-show rates among scholarship recipients.
-- Highlighted that receiving SMS reminders significantly reduces no-show rates.
+- Receiving SMS reminders significantly reduces no-show rates.
 
 **Handicap by Neighborhood and No-show:**
 - Visualized the relationship between handicaps and no-show rates across different neighborhoods.
-- Enabled the identification of neighborhoods with higher no-show rates among handicapped individuals.
+- It was observed that neighborhoods with handicaps have a high rate of no-show.
 
 **Count of No-show by Neighborhood and Gender:**
 - Implemented a geographical map to display the count of no-shows by neighborhood and gender, offering a spatial understanding of no-show patterns.
-- Facilitated the detection of regions with higher concentrations of no-shows.
+- No-shows are concentrated in specific neighborhoods, with a noticeable pattern on the geographical map.
 
 **Scholarship by Neighborhood:**
 - Used a bar chart to represent the distribution of scholarships across various neighborhoods.
 - Provided valuable data for understanding how scholarships are allocated and their impact on no-show rates.
+- Scholarships are more concentrated in certain neighborhoods, potentially influencing no-show rates.
 
-**Data Filtering:**
-- Incorporated interactive filters to allow users to dynamically explore the data based on different criteria.
-- Enhanced user experience by enabling customizable and detailed data analysis.
+## Recommendations:
+
+**Targeted Reminder Systems:**
+
+- Implement more robust SMS reminder systems, especially targeting female patients and those on scholarships, to reduce no-show rates.
+
+**Improve Accessibility:**
+
+- Focus on improving accessibility and support for handicapped patients in neighborhoods with high no-show rates. This could include transportation services or more flexible scheduling.
+
+**Neighborhood-Specific Strategies:**
+
+Develop tailored strategies for neighborhoods with high no-show rates, such as community outreach programs and localized health awareness campaigns.
+
+**Optimize Scholarship Programs:**
+Ensure that scholarship programs are effectively communicated and that patients understand
