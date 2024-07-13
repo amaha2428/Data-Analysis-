@@ -84,7 +84,7 @@ Created an in-depth analytical dashboard using Power BI to examine factors influ
 
 **Neighborhood-Specific Strategies:**
 
-Develop tailored strategies for neighborhoods with high no-show rates, such as community outreach programs and localized health awareness campaigns.
+- Develop tailored strategies for neighborhoods with high no-show rates, such as community outreach programs and localized health awareness campaigns.
 
 **Optimize Scholarship Programs:**
-Ensure that scholarship programs are effectively communicated and that patients understand
+- Ensure that scholarship programs are effectively communicated and that patients understand
