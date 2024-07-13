@@ -87,4 +87,9 @@ Created an in-depth analytical dashboard using Power BI to examine factors influ
 - Develop tailored strategies for neighborhoods with high no-show rates, such as community outreach programs and localized health awareness campaigns.
 
 **Optimize Scholarship Programs:**
-- Ensure that scholarship programs are effectively communicated and that patients understand
+
+- Ensure that scholarship programs are effectively communicated and that patients understand the importance of attending scheduled appointments. Additional support or incentives could be provided to scholarship recipients to improve attendance.
+  
+**Continuous Monitoring:**
+
+- Regularly monitor and analyze no-show patterns to identify emerging trends and adjust strategies accordingly. Use data-driven approaches to continuously refine and improve patient turn-up rates
